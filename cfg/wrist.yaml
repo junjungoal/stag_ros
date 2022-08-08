@@ -3,8 +3,8 @@ libraryHD: 17
 errorCorrection: 7
 
 # Camera configuration
-camera_info_topic: /camera/color/camera_info
-raw_image_topic: /camera/color/image_raw
+camera_info_topic: /wrist_camera/color/camera_info
+raw_image_topic: /wrist_camera/color/image_raw
 is_compressed: true
 
 # Node configuration
